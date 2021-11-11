@@ -11,8 +11,9 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2020-21.
 4. [Ejemplo de View Binding en Kotlin](https://github.com/avidaldo/android-view-binding)
 5. [Gestión de eventos en Kotlin](https://github.com/avidaldo/android-eventos-kotlin)
 6. [Layouts y Views básicas](https://github.com/avidaldo/android-layouts-vistas)
-7. [Guardar estado ante cambios de orientación](https://github.com/avidaldo/android-save-state)
-8. [Calculadora](https://github.com/avidaldo/android-calculadora)
+7. [Tirador de dados](https://github.com/avidaldo/android-tirador-dados)
+8. [Guardar estado ante cambios de orientación](https://github.com/avidaldo/android-save-state)
+9. [Calculadora](https://github.com/avidaldo/android-calculadora)
   
   
 ### [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
