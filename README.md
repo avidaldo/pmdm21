@@ -12,7 +12,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2020-21.
 5. [Gestión de eventos en Kotlin](https://github.com/avidaldo/android-eventos-kotlin)
 6. [Layouts y Views básicas](https://github.com/avidaldo/android-layouts-vistas)
 7. [Tirador de dados](https://github.com/avidaldo/android-tirador-dados)
-8. [Guardar estado ante cambios de orientación](https://github.com/avidaldo/android-save-state)
+8. [Activities, intents, estado](https://github.com/avidaldo/android-activities)
 9. [Calculadora](https://github.com/avidaldo/android-calculadora)
   
   
