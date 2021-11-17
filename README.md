@@ -23,7 +23,11 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2020-21.
   
 ## Material complementario  
 
-[Curso de introducción a Kotlin en openwebinars](https://openwebinars.net/academia/aprende/kotlin-para-android)  
+[Curso de introducción a Kotlin](https://openwebinars.net/academia/aprende/kotlin-para-android)  
+[Curso de Android en Kotlin](https://openwebinars.net/academia/portada/app-interactiva-kotlin)
+[Uso de Git en Android Studio](https://openwebinars.net/academia/portada/git-android-studio)
+
+
 
 #### Libros de consulta utilizados en la preparación del módulo:  
 - [Kotlin and Android Development featuring Jetpack - Michael Fazio (2021)](https://pragprog.com/titles/mfjetpack/kotlin-and-android-development-featuring-jetpack/)
