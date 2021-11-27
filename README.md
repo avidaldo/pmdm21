@@ -14,7 +14,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2020-21.
 7. [Tirador de dados](https://github.com/avidaldo/android-tirador-dados)
 8. [Activities, intents, estado](https://github.com/avidaldo/android-activities)
 9. [Calculadora](https://github.com/avidaldo/android-calculadora)
-10. [Examen 1.er. Trimestre Regimen Adultos](https://github.com/avidaldo/pmdm21-examen1t-adultos)
+10. [Examen 1.er. Trimestre Régimen Modular](https://github.com/avidaldo/pmdm21-examen1t-adultos)
 11. [Menús](https://github.com/avidaldo/android-menus)
   
   
