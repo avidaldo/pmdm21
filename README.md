@@ -15,7 +15,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2020-21.
 8. [Activities, intents, estado](https://github.com/avidaldo/android-activities)
 9. [Calculadora](https://github.com/avidaldo/android-calculadora)
 10. [Examen 1.er. Trimestre Régimen Modular](https://github.com/avidaldo/pmdm21-examen1t-adultos)
-11. [Menús](https://github.com/avidaldo/android-menus)
+11. [Toolbar y menús](https://github.com/avidaldo/android-menus)
   
   
 ### [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
@@ -31,7 +31,6 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2020-21.
 
 
 
-#### Libros de consulta utilizados en la preparación del módulo:  
-- [Kotlin and Android Development featuring Jetpack - Michael Fazio (2021)](https://pragprog.com/titles/mfjetpack/kotlin-and-android-development-featuring-jetpack/)
+#### Libros de consulta utilizados en la preparación del módulo:
 - [Programming Kotlin - Venkat Subramaniam (2019)](https://pragprog.com/titles/vskotlin/programming-kotlin/)
 
