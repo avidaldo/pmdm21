@@ -20,7 +20,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2020-21.
   
 ### [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
   
-  
+### [Playlist con vídeos de clase](https://www.youtube.com/playlist?list=PLb-SkCRlWLK1acuePd8K5LndNg8FXlfyq)
   
 ## Material externo  
 
@@ -28,7 +28,6 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2020-21.
 [Curso de Android en Kotlin](https://openwebinars.net/academia/portada/app-interactiva-kotlin)  
 [Uso de Git en Android Studio](https://openwebinars.net/academia/portada/git-android-studio)  
 [cursokotlin.com](https://cursokotlin.com/)
-
 
 
 #### Libros de consulta utilizados en la preparación del módulo:
