@@ -33,4 +33,5 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2020-21.
 
 #### Libros de consulta utilizados en la preparación del módulo:
 - [Programming Kotlin - Venkat Subramaniam (2019)](https://pragprog.com/titles/vskotlin/programming-kotlin/)
+- [Java to Kotlin: A Refactoring Guidebook - Duncan McGregor & Nat Pryce (2021)](https://java-to-kotlin.dev/)
 
