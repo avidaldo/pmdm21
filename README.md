@@ -18,7 +18,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2020-21.
 11. [Toolbar y menús](https://github.com/avidaldo/android-menus)
 12. [Fragments](https://github.com/avidaldo/android-fragments)
 13. [Navegación](https://github.com/avidaldo/android-navigation)
-14. [Tres en ralla (MVC)](https://github.com/avidaldo/android-tresEnRalla-mvvc)
+14. [Tres en raya (MVC)](https://github.com/avidaldo/android-tresEnRalla-mvvc)
   
   
 ### [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
