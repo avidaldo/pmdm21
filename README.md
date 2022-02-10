@@ -17,7 +17,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2021-22.
 10. [Examen 1.er. Trimestre Régimen Modular](https://github.com/avidaldo/pmdm21-examen1t-adultos)
 11. [Toolbar y menús](https://github.com/avidaldo/android-menus)
 12. [Fragments](https://github.com/avidaldo/android-fragments)
-13. [Tres en raya (patrones)](https://github.com/avidaldo/android-tresEnRalla-patrones)
+13. [Tres en raya (patrones)](https://github.com/avidaldo/android-tresEnRaya-patrones)
 14. [MVVM simple con LiveData](https://github.com/avidaldo/SimpleAndroidMVVM)
 15. [Navegación](https://github.com/avidaldo/android-navigation)
   
