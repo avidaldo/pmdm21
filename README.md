@@ -21,6 +21,9 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2021-22.
 14. [ViewModel mínimo para mantener estado](https://github.com/avidaldo/android-viewModel)
 15. [MVVM simple con LiveData](https://github.com/avidaldo/SimpleAndroidMVVM)
 16. [Navegación](https://github.com/avidaldo/android-navigation)
+17. [NavigationDrawer](https://github.com/avidaldo/android-NavigationDrawer)
+18. [BottonNavigation](https://github.com/avidaldo/android-BottonNavigation)
+19. [Adivina la Palabra](https://github.com/avidaldo/android-GuessTheWord)
   
   
 ### [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
