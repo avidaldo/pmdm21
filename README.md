@@ -17,17 +17,20 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2021-22.
 10. [Examen 1.er. Trimestre Régimen Modular](https://github.com/avidaldo/pmdm21-examen1t-adultos)
 11. [Toolbar y menús](https://github.com/avidaldo/android-menus)
 12. [Fragments](https://github.com/avidaldo/android-fragments)
-13. [Tres en raya (patrones)](https://github.com/avidaldo/android-tresEnRaya-patrones)
-14. [ViewModel mínimo para mantener estado](https://github.com/avidaldo/android-viewModel)
-15. [MVVM simple con LiveData](https://github.com/avidaldo/SimpleAndroidMVVM)
-16. [Navegación](https://github.com/avidaldo/android-navigation)
-17. [Ejemplo 2 de Navegación](https://github.com/avidaldo/android-navigation2)
-18. [Navegación pasando argumentos complejos](https://github.com/avidaldo/android-safeargs-parcelable)
-19. [NavigationDrawer](https://github.com/avidaldo/android-NavigationDrawer)
-20. [BottomNavigation](https://github.com/avidaldo/android-BottomNavigation)
-21. [Adivina la Palabra](https://github.com/avidaldo/android-GuessTheWord)
-22. [Spinners](https://github.com/avidaldo/android-spinners)
+13. [Navegación](https://github.com/avidaldo/android-navigation)
+14. [Ejemplo 2 de Navegación](https://github.com/avidaldo/android-navigation2)
+15. [Navegación pasando argumentos complejos](https://github.com/avidaldo/android-safeargs-parcelable)
+16. [NavigationDrawer](https://github.com/avidaldo/android-NavigationDrawer)
+17. [BottomNavigation](https://github.com/avidaldo/android-BottomNavigation)
   
+18. [Tres en raya (patrones)](https://github.com/avidaldo/android-tresEnRaya-patrones)
+19. [ViewModel mínimo para mantener estado](https://github.com/avidaldo/android-viewModel)
+21. [Adivina la Palabra](https://github.com/avidaldo/android-GuessTheWord)
+22. [Tipos de delegación "by viewModels()"](https://github.com/avidaldo/NavGraphViewModelProject)
+20. [MVVM simple con LiveData](https://github.com/avidaldo/SimpleAndroidMVVM)
+  
+21. [Spinners](https://github.com/avidaldo/android-spinners)
+
   
 ### [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
   
