@@ -17,7 +17,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2021-22.
 7. [Tirador de dados](https://github.com/avidaldo/android-tirador-dados)
 8. [Activities, intents, estado](https://github.com/avidaldo/android-activities)
 9. [Calculadora](https://github.com/avidaldo/android-calculadora)
-10. [Examen 1.er. Trimestre Régimen Modular](https://github.com/avidaldo/pmdm21-examen1t-adultos)
+10. [Examen 1.er. Trimestre](https://github.com/avidaldo/pmdm21-examen1t-adultos)
 
 ### Navegación
 
@@ -27,20 +27,22 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2021-22.
 14. [Ejemplo 2 de Navegación](https://github.com/avidaldo/android-navigation2)
 15. [Navegación pasando argumentos complejos](https://github.com/avidaldo/android-safeargs-parcelable)
 16. [NavigationDrawer](https://github.com/avidaldo/android-NavigationDrawer)
-17. [BottomNavigation](https://github.com/avidaldo/android-BottomNavigation)  
-
+17. [BottomNavigation](https://github.com/avidaldo/android-BottomNavigation)
+18. [Examen 2º Trimestre](https://github.com/avidaldo/examen2t-adultos)
+  
+  
 ### ViewModel
 
-18. [Tres en raya (patrones)](https://github.com/avidaldo/android-tresEnRaya-patrones)
-19. [ViewModel mínimo para mantener estado](https://github.com/avidaldo/android-viewModel)
+19. [Tres en raya (patrones)](https://github.com/avidaldo/android-tresEnRaya-patrones)
+20. [ViewModel mínimo para mantener estado](https://github.com/avidaldo/android-viewModel)
 21. [Adivina la Palabra](https://github.com/avidaldo/android-GuessTheWord)
 22. [Tipos de delegación "by viewModels()"](https://github.com/avidaldo/NavGraphViewModelProject)
-20. [MVVM simple con LiveData](https://github.com/avidaldo/SimpleAndroidMVVM)  
+23. [MVVM simple con LiveData](https://github.com/avidaldo/SimpleAndroidMVVM)  
 
 
 ### Listas y adaptadores
 
-21. [Spinners](https://github.com/avidaldo/android-spinners)  
+24. [Spinners](https://github.com/avidaldo/android-spinners)  
   
   
   
