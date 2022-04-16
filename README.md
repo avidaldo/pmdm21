@@ -33,7 +33,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2021-22.
   
 ### ViewModel
 
-19. [Tres en raya (patrones)](https://github.com/avidaldo/android-tresEnRaya-patrones)
+19. [Tres en raya (patrones)](https://github.com/avidaldo/android-tictactoe)
 20. [Usos básicos de ViewModel](https://github.com/avidaldo/android-basic-mvvm)
 21. [Tipos de delegación "by viewModels()"](https://github.com/avidaldo/NavGraphViewModelProject)
 22. [Adivina la Palabra](https://github.com/avidaldo/android-GuessTheWord)
