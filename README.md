@@ -38,11 +38,12 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2021-22.
 21. [Tipos de delegación "by viewModels()"](https://github.com/avidaldo/NavGraphViewModelProject)
 22. [Adivina la Palabra](https://github.com/avidaldo/android-GuessTheWord)
 23. [MVVM simple con LiveData](https://github.com/avidaldo/SimpleAndroidMVVM)  
+24. [Examen 2T Dual](https://github.com/avidaldo/examen2t-dual)
 
 
 ### Listas y adaptadores
 
-24. [Spinners](https://github.com/avidaldo/android-spinners)  
+25. [Spinners](https://github.com/avidaldo/android-spinners)  
   
   
   
