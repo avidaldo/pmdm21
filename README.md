@@ -42,9 +42,9 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2021-22.
 
 
 ### Listas y adaptadores
-
-25. [Spinners](https://github.com/avidaldo/android-spinners)  
-26. [Spinners con navegación](https://github.com/avidaldo/android-spinners2)
+ 
+25. [Spinners con navegación](https://github.com/avidaldo/android-spinners2)
+26. [RecyclerView](https://github.com/avidaldo/android-RecyclerView)
   
   
   
