@@ -45,6 +45,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Curso 2021-22.
  
 25. [Spinners](https://github.com/avidaldo/android-spinners2)
 26. [RecyclerView](https://github.com/avidaldo/android-RecyclerView)
+27. [RecyclerView con navegación y viewModel](https://github.com/avidaldo/RecyclerViewKotlin)
   
   
   
